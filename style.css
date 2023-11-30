@@ -60,8 +60,8 @@ header input {
     border: none;
     border-radius: 3px;
     font-family: inherit;
-    padding: 0.5rem;
-    margin-left: 50px;
+    padding: 0.5rem 1rem;
+    padding-right: 0rem;
 }
 
 header button {
