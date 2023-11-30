@@ -62,6 +62,7 @@ header input {
     font-family: inherit;
     padding: 0.5rem 1rem;
     padding-right: 0rem;
+    margin-left: 5px;
 }
 
 header button {
@@ -69,7 +70,7 @@ header button {
     border: none;
     color: rgb(170, 157, 173);
     font-size: 1.5rem;
-    margin-left: 5px;
+    margin-left: 1px;
 
     transition: background-color 0.3s, color 0.3s;
     transition-duration: 500ms;
